@@ -1,0 +1,20 @@
+button {
+    display: block;
+}
+
+.btns {
+    align-items: center;
+    margin: 200px 0px 0px 650px
+}
+
+.j1 {
+    padding: 40px;
+}
+
+.j2 {
+    padding: 40px 56px;
+}
+
+.j3 {
+    padding: 40px 46px;
+}
